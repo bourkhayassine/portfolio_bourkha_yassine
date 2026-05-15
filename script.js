@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", () => {
 
   /* =========================
@@ -115,4 +114,3 @@ document.addEventListener("keydown", (e) => {
   });
 
 });
-</script>
