@@ -16,7 +16,9 @@ L'objectif est d'offrir une interface claire pour me découvrir et me contacter.
 
 ## 📸 Aperçu du projet
 ![Capture d'écran du portfolio](https://github.com/bourkhayassine/portfolio_bourkha_yassine/blob/1617a7effd319a0bdfc286c816c62acbefef1be0/Screenshot%202026-05-15%20015554.png)
-(https://github.com/bourkhayassine/portfolio_bourkha_yassine/blob/3a2877b3e63c9c8a2802823b0b8f1d97c0b37f42/Screenshot%202026-05-15%20015830.png)
+![Capture d'écran du portfolio](https://github.com/bourkhayassine/portfolio_bourkha_yassine/blob/3a2877b3e63c9c8a2802823b0b8f1d97c0b37f42/Screenshot%202026-05-15%20015830.png)
+![Capture d'écran du portfolio]
+![Capture d'écran du portfolio]
 
 ## 🎨 Design (Figma)
 Vous pouvez consulter la maquette du projet ici : [Lien vers Figma](https://www.figma.com/design/h7cbAVHzYl8LXyVUjFFmOr/portfolio-V1?node-id=0-1&t=WnxZFNfJXksdteLL-1)
